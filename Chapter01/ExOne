@@ -1,0 +1,10 @@
+#bài 1
+#biến số nguyên
+a = 1
+#biến số thực
+b = 3.6
+#biến chuỗi
+hanh = "oh my god"
+print(a)
+print(b)
+print(hanh)
